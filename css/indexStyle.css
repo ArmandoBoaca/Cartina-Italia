@@ -32,3 +32,26 @@ li a {
 li a:hover {
     background-color: #000000;
 }
+
+.container-ul{
+    background-color: white;
+}
+
+.container{
+    float:none;
+    width: 100%;
+    background-color: white;
+}
+
+.container li{
+    margin-left: 14%;
+    padding: 20PX;
+    float:left;
+}
+
+p {
+    margin-left: 400px;
+    margin-right: 400px;
+    margin-top: 125px;
+
+}
